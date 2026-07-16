@@ -1,0 +1,12 @@
+# Entornos Virtuales
+venv/
+# Documentos Procesados
+data/processed
+# Modelos Entrenados
+*.pkl
+models/
+#Archivos Temporales
+.ipynb_checkpoints
+__pycache__
+
+
