@@ -105,3 +105,5 @@ Enlaces útiles:
 # Metricas del modelo Logistico
 
 Las métricas del modelo de regresión logística son herramientas estadísticas fundamentales para medir la exactitud y capacidad predictiva de un algoritmo de clasificación. Ayudan a cuantificar qué tan bien el modelo asigna las observaciones a categorías binarias (ej. Sí/No, 0/1).
+
+Realizado: Jean Paul Osorio
