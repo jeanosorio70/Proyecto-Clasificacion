@@ -101,3 +101,7 @@ Enlaces útiles:
 - [GitHub Docs:](https://docs.github.com/es)
 - [Documentación de Scikit-learn:](https://scikit-learn.org/stable/)
 - [Guía básica de Markdown:](https://www.markdownguide.org/basic-syntax/)
+
+# Metricas del modelo Logistico
+
+Las métricas del modelo de regresión logística son herramientas estadísticas fundamentales para medir la exactitud y capacidad predictiva de un algoritmo de clasificación. Ayudan a cuantificar qué tan bien el modelo asigna las observaciones a categorías binarias (ej. Sí/No, 0/1).
